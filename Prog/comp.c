@@ -3,11 +3,6 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-//Name: David Manshari
-//ID: 307892935
-
-//Name:Nir Abadi 
-//ID: 206172546
 
 int main(int argc, char* argv[]) {
 
