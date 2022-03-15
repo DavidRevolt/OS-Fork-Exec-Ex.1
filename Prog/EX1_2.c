@@ -10,11 +10,7 @@
 #include <errno.h>
 #include <sys/wait.h>
 
-//Name: David Manshari
-//ID: 307892935
 
-//Name: Nir Abadi
-//ID:206172546 
 
 void mystrcat(char* a, char* b);
 void explorer(char* directoryPath, char* studentName);
