@@ -1,0 +1,3 @@
+/home/davidmanshari/prog/students
+/home/davidmanshari/prog/setup/test_input.qa
+/home/davidmanshari/prog/setup/expected_output.qa
